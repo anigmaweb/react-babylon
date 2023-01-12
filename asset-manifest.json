@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-babylon/static/css/main.e6c13ad2.css",
+    "main.js": "/react-babylon/static/js/main.344cbb23.js",
+    "static/js/787.dcf64986.chunk.js": "/react-babylon/static/js/787.dcf64986.chunk.js",
+    "index.html": "/react-babylon/index.html",
+    "main.e6c13ad2.css.map": "/react-babylon/static/css/main.e6c13ad2.css.map",
+    "main.344cbb23.js.map": "/react-babylon/static/js/main.344cbb23.js.map",
+    "787.dcf64986.chunk.js.map": "/react-babylon/static/js/787.dcf64986.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.344cbb23.js"
+  ]
+}
